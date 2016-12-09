@@ -1,0 +1,10 @@
+﻿[{"level":1,"name":"Lv. 1","grade":"하수","icon":null,"point":100,"money":10000},
+{"level":2,"name":"Lv. 2","grade":"하수","icon":null,"point":500,"money":50000},
+{"level":3,"name":"Lv. 3","grade":"하수","icon":null,"point":1000,"money":100000},
+{"level":4,"name":"Lv. 4","grade":"중수","icon":null,"point":5000,"money":500000},
+{"level":5,"name":"Lv. 5","grade":"중수","icon":null,"point":10000,"money":1000000},
+{"level":6,"name":"Lv. 6","grade":"중수","icon":null,"point":50000,"money":5000000},
+{"level":7,"name":"Lv. 7","grade":"고수","icon":null,"point":100000,"money":10000000},
+{"level":8,"name":"Lv. 8","grade":"고수","icon":null,"point":500000,"money":50000000},
+{"level":9,"name":"Lv. 9","grade":"고수","icon":null,"point":1000000,"money":100000000},
+{"level":10,"name":"Lv. 10","grade":"신","icon":null,"point":5000000,"money":500000000}]
